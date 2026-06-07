@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# httpx_recon.sh - Simple httpx recon script for bug bounty
-
 if [ -z "$1" ]; then
     echo "Usage: $0 <subdomains_file> [output_file]"
     exit 1
