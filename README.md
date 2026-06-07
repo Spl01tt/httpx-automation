@@ -9,7 +9,7 @@ chmod +x httpx.sh
 ./httpx.sh <subdomains-file>
 ```
 
-If you want to change the output:
+If you want to change the output file name:
 
 ```
 ./httpx.sh <subdomains-file> custom.txt
